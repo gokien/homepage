@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 ---
 
 ## Những câu hỏi thường gặp

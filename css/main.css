@@ -366,12 +366,20 @@ ul.nav {
     width: 100%;
 }
 
+ul.nav > li {
+    text-align: right;
+    margin-bottom: 0.5em;
+    margin-right: 0.5em;
+    float: none;
+}
+
 ul.nav > li > a {
     padding: 9px 15px;
     color: white;
     font-weight: bold;
     transition: background-color .2s;
-    text-align: right;
+    background-color: rgb(44, 62, 80);
+    display: inline-block;
 }
 
 .sidebar ul.nav > li > a:hover, ul.nav > li > a:focus {
@@ -382,10 +390,6 @@ ul.nav > li > a {
 .navbar-inner {
     border-radius: 0;
     border: none;
-}
-
-.navbar .nav > li {
-  float: none;
 }
 
 /*Jumbotron image*/
@@ -413,4 +417,16 @@ header .lead {
 
 header .title {
     color: rgb(26, 188, 156);
+}
+
+
+/* mobile view */
+@media (max-width: 480px) {
+
+    /* make the nav-sidebar free-flow */
+    ul.nav > li {
+        margin-bottom: 0.2em;
+        margin-right: 0.2em;
+        float: right;
+    }
 }

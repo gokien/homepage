@@ -373,7 +373,7 @@ ul.nav > li {
     float: none;
 }
 
-ul.nav > li > a {
+ul.nav > li > a, ul.nav > li > a:focus {
     padding: 9px 15px;
     color: white;
     font-weight: bold;
@@ -382,7 +382,7 @@ ul.nav > li > a {
     display: inline-block;
 }
 
-.sidebar ul.nav > li > a:hover, ul.nav > li > a:focus {
+.sidebar ul.nav > li > a:hover {
     background-color: rgb(26, 188, 156);
     color: white;
 }

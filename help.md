@@ -17,7 +17,7 @@ trên Github và chúng tôi sẽ trả lời bạn trong thời gian sớm nh�
 
 ### Hỗ trợ trực tuyến qua IRC (Internet Relay Chat)
 
-Tuy nhiên, đôi khi trò chuyện trực tiếp lại là cách hay nhất. Hãy chọn
-một tên gọi mà bạn muốn và nhấn kết nối để trò chuyện với chúng tôi.
+Đôi khi trò chuyện trực tiếp lại là cách hay nhất. Hãy chọn
+một nickname mà bạn muốn và nhấn Start để trò chuyện với chúng tôi.
 
-<iframe src="http://webchat.freenode.net?channels=gokien&uio=OT10cnVlJjExPTEzMyYxMj10cnVl37" width="647" height="400"></iframe>
+<iframe src="https://kiwiirc.com/client/irc.freenode.net/?&theme=basic#gokien" style="border:1px solid; width:100%; height:450px;"></iframe>

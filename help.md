@@ -18,6 +18,6 @@ trên Github và chúng tôi sẽ trả lời bạn trong thời gian sớm nh�
 ### Hỗ trợ trực tuyến qua IRC (Internet Relay Chat)
 
 Đôi khi trò chuyện trực tiếp lại là cách hay nhất. Bạn không cần khai báo
-bất kỳ thông gì ngoài việc chọn cho mình một nickname và nhấn **Start**.
+bất kỳ thông tin gì ngoài việc chọn cho mình một nickname và nhấn **Start**.
 
 <iframe src="https://kiwiirc.com/client/irc.freenode.net/?nick=gokien|?#gokien" style="border:1px solid; width:100%; height:450px;"></iframe>
